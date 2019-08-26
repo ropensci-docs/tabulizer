@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "fa4dff5604f927d02b49eddebae741efada5addf",
+    "author": "Jeroen Ooms <jeroenooms@gmail.com>",
+    "time": "2019-08-26 08:35:33",
+    "files": 1,
+    "merge": false,
+    "message": "Add official docs url to description"
+  },
+  "remote": "https://github.com/ropensci/tabulizer",
+  "pkg": "tabulizer"
+}
