@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "d96733c7d50927d8647cd49a9726852538029305",
+    "author": "Pachá <mavargas11@uc.cl>",
+    "time": "2022-11-01 22:02:32",
+    "files": 4,
+    "merge": true,
+    "message": "Merge pull request #150 from AlbanSagouis/master\n\nWarning when guess is TRUE and area or columns is used in extract_tables"
+  },
+  "repo": "https://github.com/ropensci/tabulizer",
+  "pkg": "tabulizer"
+}
